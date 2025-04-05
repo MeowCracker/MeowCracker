@@ -1,45 +1,48 @@
-# .github/workflows/update_activity.yml
-name: Update GitHub Activity Feed
+# .github/workflows/update_feed.yml
+name: Activity Monitor
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # 每30分钟执行一次
-  workflow_dispatch:  # 允许手动触发
+    - cron: '0 0 * * *'  # 每10分钟检查一次
+  workflow_dispatch:
   push:
-    branches:
-      - main  # 主分支推送时触发
+    paths:
+      - 'scripts/get_activities.py'
 
 jobs:
-  generate-feed:
+  update:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      pull-requests: read
+      issues: read
     
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0 
-
-      - name: Set up Python 3.10
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.10'
-
-      - name: Install dependencies
-        run: pip install requests
-
-      - name: Run activity script
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # 自动注入的仓库令牌
-        run: |
-          python scripts/get_activities.py
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-
-      - name: Commit and push changes
-        uses: EndBug/add-and-commit@v9
-        with:
-          add: 'activity.xml'
-          message: 'chore: Auto-update activity feed [skip ci]'
-          push: true
+    - uses: actions/checkout@v4
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+        cache: 'pip'
+    
+    - name: Run monitor
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        pip install requests
+        python scripts/get_activities.py
+        
+    - name: Upload artifact
+      uses: actions/upload-artifact@v3
+      with:
+        name: activity-feed
+        path: activity.xml
+    
+    - name: Commit changes
+      if: success()
+      uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: '📈 Update activity feed'
+        file_pattern: activity.xml
+        branch: main
