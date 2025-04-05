@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>MeowCracker 的GitHub动态</title>
+    <link>https://github.com/MeowCracker</link>
+    <description>GitHub事件订阅</description>
+    <item>
+      <title>LIPiston 在 MeowCracker/MobaGenkey 的 WatchEvent</title>
+      <link>https://github.com/MeowCracker/MobaGenkey</link>
+      <guid>48335537612</guid>
+      <pubDate>Fri, 04 Apr 2025 16:12:18 +0000</pubDate>
+      <description>LIPiston 关注了仓库 MeowCracker/MobaGenkey</description>
+    </item>
+    <item>
+      <title>GamerNoTitle 在 MeowCracker/MobaGenkey 的 PushEvent</title>
+      <link>https://github.com/MeowCracker/MobaGenkey</link>
+      <guid>48322446090</guid>
+      <pubDate>Fri, 04 Apr 2025 10:22:29 +0000</pubDate>
+      <description>GamerNoTitle 提交了 1 个变更：
+docs: 添加了文件放置位置的提示 (commit: 158d4f6)</description>
+    </item>
+    <item>
+      <title>GamerNoTitle 在 MeowCracker/MobaGenkey 的 WatchEvent</title>
+      <link>https://github.com/MeowCracker/MobaGenkey</link>
+      <guid>48322410086</guid>
+      <pubDate>Fri, 04 Apr 2025 10:21:26 +0000</pubDate>
+      <description>GamerNoTitle 关注了仓库 MeowCracker/MobaGenkey</description>
+    </item>
+    <item>
+      <title>GamerNoTitle 在 MeowCracker/MobaGenkey 的 PushEvent</title>
+      <link>https://github.com/MeowCracker/MobaGenkey</link>
+      <guid>48322359837</guid>
+      <pubDate>Fri, 04 Apr 2025 10:19:56 +0000</pubDate>
+      <description>GamerNoTitle 提交了 1 个变更：
+feat: 添加了 Vercel 部署按钮，添加了 Credit (commit: 907f218)</description>
+    </item>
+    <item>
+      <title>GamerNoTitle 在 MeowCracker/MobaGenkey 的 PushEvent</title>
+      <link>https://github.com/MeowCracker/MobaGenkey</link>
+      <guid>48322190806</guid>
+      <pubDate>Fri, 04 Apr 2025 10:14:59 +0000</pubDate>
+      <description>GamerNoTitle 提交了 1 个变更：
+fix: 移除了现在不受支持的 region 字段 (commit: 5f8f639)</description>
+    </item>
+    <item>
+      <title>GamerNoTitle 在 MeowCracker/MobaGenkey 的 PushEvent</title>
+      <link>https://github.com/MeowCracker/MobaGenkey</link>
+      <guid>48322150117</guid>
+      <pubDate>Fri, 04 Apr 2025 10:13:47 +0000</pubDate>
+      <description>GamerNoTitle 提交了 1 个变更：
+feat: 添加了 vercel 部署的配置文件 (commit: 0afd6a6)</description>
+    </item>
+    <item>
+      <title>GamerNoTitle 在 MeowCracker/MobaGenkey 的 CreateEvent</title>
+      <link>https://github.com/MeowCracker/MobaGenkey</link>
+      <guid>48322116949</guid>
+      <pubDate>Fri, 04 Apr 2025 10:12:49 +0000</pubDate>
+      <description>新建 branch：master @ MeowCracker/MobaGenkey</description>
+    </item>
+  </channel>
+</rss>
