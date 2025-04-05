@@ -1,61 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
   <channel>
-    <title>MeowCracker 的GitHub动态</title>
-    <link>https://github.com/MeowCracker</link>
-    <description>GitHub事件订阅</description>
+    <title>我的GitHub动态追踪</title>
+    <link>https://github.com</link>
+    <description>精选仓库活动监控</description>
     <item>
-      <title>LIPiston 在 MeowCracker/MobaGenkey 的 WatchEvent</title>
-      <link>https://github.com/MeowCracker/MobaGenkey</link>
+      <title>LIPiston star了仓库 MeowCracker/MobaGenkey</title>
+      <link>https://github.com/MeowCracker/MobaGenkey/stargazers</link>
       <guid>48335537612</guid>
       <pubDate>Fri, 04 Apr 2025 16:12:18 +0000</pubDate>
-      <description>LIPiston 关注了仓库 MeowCracker/MobaGenkey</description>
     </item>
     <item>
-      <title>GamerNoTitle 在 MeowCracker/MobaGenkey 的 PushEvent</title>
-      <link>https://github.com/MeowCracker/MobaGenkey</link>
-      <guid>48322446090</guid>
-      <pubDate>Fri, 04 Apr 2025 10:22:29 +0000</pubDate>
-      <description>GamerNoTitle 提交了 1 个变更：
-docs: 添加了文件放置位置的提示 (commit: 158d4f6)</description>
+      <title>awll1132 fork了仓库 GamerNoTitle/wyycg-autocheckin</title>
+      <link>https://github.com/awll1132/wyycg-autocheckin</link>
+      <guid>48271223498</guid>
+      <pubDate>Thu, 03 Apr 2025 07:02:55 +0000</pubDate>
     </item>
     <item>
-      <title>GamerNoTitle 在 MeowCracker/MobaGenkey 的 WatchEvent</title>
-      <link>https://github.com/MeowCracker/MobaGenkey</link>
-      <guid>48322410086</guid>
-      <pubDate>Fri, 04 Apr 2025 10:21:26 +0000</pubDate>
-      <description>GamerNoTitle 关注了仓库 MeowCracker/MobaGenkey</description>
+      <title>LascinaryZX star了仓库 GamerNoTitle/TemperMonkeyScript</title>
+      <link>https://github.com/GamerNoTitle/TemperMonkeyScript/stargazers</link>
+      <guid>48225087035</guid>
+      <pubDate>Wed, 02 Apr 2025 06:41:55 +0000</pubDate>
     </item>
     <item>
-      <title>GamerNoTitle 在 MeowCracker/MobaGenkey 的 PushEvent</title>
-      <link>https://github.com/MeowCracker/MobaGenkey</link>
-      <guid>48322359837</guid>
-      <pubDate>Fri, 04 Apr 2025 10:19:56 +0000</pubDate>
-      <description>GamerNoTitle 提交了 1 个变更：
-feat: 添加了 Vercel 部署按钮，添加了 Credit (commit: 907f218)</description>
+      <title>LascinaryZX star了仓库 GamerNoTitle/TemperMonkeyScript</title>
+      <link>https://github.com/GamerNoTitle/TemperMonkeyScript/stargazers</link>
+      <guid>48225086067</guid>
+      <pubDate>Wed, 02 Apr 2025 06:41:52 +0000</pubDate>
     </item>
     <item>
-      <title>GamerNoTitle 在 MeowCracker/MobaGenkey 的 PushEvent</title>
-      <link>https://github.com/MeowCracker/MobaGenkey</link>
-      <guid>48322190806</guid>
-      <pubDate>Fri, 04 Apr 2025 10:14:59 +0000</pubDate>
-      <description>GamerNoTitle 提交了 1 个变更：
-fix: 移除了现在不受支持的 region 字段 (commit: 5f8f639)</description>
+      <title>JYcdt star了仓库 GamerNoTitle/wyycg-autocheckin</title>
+      <link>https://github.com/GamerNoTitle/wyycg-autocheckin/stargazers</link>
+      <guid>48224691813</guid>
+      <pubDate>Wed, 02 Apr 2025 06:28:29 +0000</pubDate>
     </item>
     <item>
-      <title>GamerNoTitle 在 MeowCracker/MobaGenkey 的 PushEvent</title>
-      <link>https://github.com/MeowCracker/MobaGenkey</link>
-      <guid>48322150117</guid>
-      <pubDate>Fri, 04 Apr 2025 10:13:47 +0000</pubDate>
-      <description>GamerNoTitle 提交了 1 个变更：
-feat: 添加了 vercel 部署的配置文件 (commit: 0afd6a6)</description>
+      <title>ci-hao92104 fork了仓库 GamerNoTitle/wyycg-autocheckin</title>
+      <link>https://github.com/ci-hao92104/wyycg-autocheckin</link>
+      <guid>48120328052</guid>
+      <pubDate>Sun, 30 Mar 2025 11:08:18 +0000</pubDate>
     </item>
     <item>
-      <title>GamerNoTitle 在 MeowCracker/MobaGenkey 的 CreateEvent</title>
-      <link>https://github.com/MeowCracker/MobaGenkey</link>
-      <guid>48322116949</guid>
-      <pubDate>Fri, 04 Apr 2025 10:12:49 +0000</pubDate>
-      <description>新建 branch：master @ MeowCracker/MobaGenkey</description>
+      <title>rebase star了仓库 GamerNoTitle/SRCloud-AutoCheckin</title>
+      <link>https://github.com/GamerNoTitle/SRCloud-AutoCheckin/stargazers</link>
+      <guid>48110011196</guid>
+      <pubDate>Sat, 29 Mar 2025 16:50:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dvgd123 fork了仓库 GamerNoTitle/MHYY</title>
+      <link>https://github.com/Dvgd123/MHYY</link>
+      <guid>48071076551</guid>
+      <pubDate>Fri, 28 Mar 2025 09:07:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>00028392 fork了仓库 GamerNoTitle/MHYY</title>
+      <link>https://github.com/00028392/MHYY</link>
+      <guid>48070907659</guid>
+      <pubDate>Fri, 28 Mar 2025 09:02:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>2034974607 star了仓库 GamerNoTitle/MHYY</title>
+      <link>https://github.com/GamerNoTitle/MHYY/stargazers</link>
+      <guid>47852073315</guid>
+      <pubDate>Sat, 22 Mar 2025 16:07:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>xiaozhen12138 star了仓库 GamerNoTitle/ZZZCloud-AutoCheckin</title>
+      <link>https://github.com/GamerNoTitle/ZZZCloud-AutoCheckin/stargazers</link>
+      <guid>47851432471</guid>
+      <pubDate>Sat, 22 Mar 2025 15:10:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
