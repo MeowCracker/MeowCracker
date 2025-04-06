@@ -6,7 +6,7 @@ from datetime import datetime
 
 # 配置信息
 GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN")
-MY_ACCOUNTS = ["MeowCracker", "GamerNoTitle"]  # 需要监控的账户
+MY_ACCOUNTS = ["MeowCracker", "GamerNoTitle", "Vikutorika", "GDUTMeow"]  # 需要监控的账户
 
 def is_my_repo(repo_name):
     """判断是否属于我的仓库"""
@@ -92,9 +92,9 @@ def generate_rss(events):
     rss = ET.Element("rss", version="2.0")
     channel = ET.SubElement(rss, "channel")
     
-    ET.SubElement(channel, "title").text = "我的GitHub动态追踪"
+    ET.SubElement(channel, "title").text = "Github Activities"
     ET.SubElement(channel, "link").text = "https://github.com"
-    ET.SubElement(channel, "description").text = "精选仓库活动监控"
+    ET.SubElement(channel, "description").text = "个人Github活动监控"
 
     for event in sorted(events, key=lambda x: x['created_at'], reverse=True):
         item = ET.Element("item")
