@@ -5,6 +5,12 @@
     <link>https://github.com</link>
     <description>个人Github活动监控</description>
     <item>
+      <title>zygame1314 star了仓库 GamerNoTitle/Valine-Magic</title>
+      <link>https://github.com/GamerNoTitle/Valine-Magic/stargazers</link>
+      <guid>49891442957</guid>
+      <pubDate>Mon, 19 May 2025 16:53:52 +0000</pubDate>
+    </item>
+    <item>
       <title>ligseeker star了仓库 Vikutorika/Airports</title>
       <link>https://github.com/Vikutorika/Airports/stargazers</link>
       <guid>49841325748</guid>
@@ -75,46 +81,6 @@
       <link>https://github.com/GamerNoTitle/Bililive-Credential-Grabber/stargazers</link>
       <guid>49792561872</guid>
       <pubDate>Fri, 16 May 2025 07:10:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vanilluv 创建了Issue: 软件开发建议</title>
-      <link>https://github.com/GamerNoTitle/Bililive-Credential-Grabber/issues/2</link>
-      <guid>49791586980</guid>
-      <pubDate>Fri, 16 May 2025 06:40:43 +0000</pubDate>
-      <description>内容：1、实现本地保存**并读取**，由于现在无法在网站上直接点开播按键，因此软件需要保存房间号和cookie信息，以便于一键开播
-2、由1，因此添加一个“获取”按键，对于没有获取需求的用户可以不用获取推流地址和推流密钥，只进行一键开播功能
-3、由于进行本地保存+读取，在cookie栏应该进行处理，对于用户输入的cookie作显示，以便用户进行检查，对于本地保存的cookie，使用星号（*）代替，以避免...</description>
-    </item>
-    <item>
-      <title>Vanilluv 创建了Issue: 软件路径存在中文时，无法正常运行</title>
-      <link>https://github.com/GamerNoTitle/Bililive-Credential-Grabber/issues/1</link>
-      <guid>49791109311</guid>
-      <pubDate>Fri, 16 May 2025 06:24:44 +0000</pubDate>
-      <description>内容：当软件路径存在中文时，会出现软件打开后直接闪退的情况，更改为英文后能正常运行。...</description>
-    </item>
-    <item>
-      <title>Liyuzhi123 star了仓库 GamerNoTitle/Bililive-Credential-Grabber</title>
-      <link>https://github.com/GamerNoTitle/Bililive-Credential-Grabber/stargazers</link>
-      <guid>49784382196</guid>
-      <pubDate>Fri, 16 May 2025 00:55:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>FZ688 star了仓库 GamerNoTitle/Bililive-Credential-Grabber</title>
-      <link>https://github.com/GamerNoTitle/Bililive-Credential-Grabber/stargazers</link>
-      <guid>49774277721</guid>
-      <pubDate>Thu, 15 May 2025 18:22:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>realtvop star了仓库 GamerNoTitle/Bililive-Credential-Grabber</title>
-      <link>https://github.com/GamerNoTitle/Bililive-Credential-Grabber/stargazers</link>
-      <guid>49771202246</guid>
-      <pubDate>Thu, 15 May 2025 16:56:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>wangyixiang-2006 fork了仓库 GamerNoTitle/MHYY</title>
-      <link>https://github.com/wangyixiang-2006/MHYY</link>
-      <guid>49765594227</guid>
-      <pubDate>Thu, 15 May 2025 14:52:23 +0000</pubDate>
     </item>
     <item>
       <title>qfcy star了仓库 GDUTMeow/GPACalculator</title>
