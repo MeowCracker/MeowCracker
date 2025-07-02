@@ -127,7 +127,7 @@ def main():
             response = requests.get(url, headers=headers)
             response.raise_for_status()
             print(user)
-            pprint(response.json())
+            pprint.pprint(response.json())
             for event in response.json():
                 if parsed := parse_event(event):
                     all_events.append(parsed)
