@@ -3,6 +3,7 @@ import os
 from xml.etree import ElementTree as ET
 from xml.sax.saxutils import escape
 from datetime import datetime
+import pprint
 
 # 配置信息
 GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN")
@@ -125,6 +126,8 @@ def main():
         try:
             response = requests.get(url, headers=headers)
             response.raise_for_status()
+            print(user)
+            pprint(response.json())
             for event in response.json():
                 if parsed := parse_event(event):
                     all_events.append(parsed)
