@@ -7,7 +7,7 @@ import pprint
 
 # 配置信息
 GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN")
-MY_ACCOUNTS = ["MeowCracker", "GamerNoTitle", "Vikutorika", "GDUTMeow"]  # 需要监控的账户
+MY_ACCOUNTS = ["GamerNoTitle", "MeowCracker", "Vikutorika", "GDUTMeow"]  # 需要监控的账户
 
 def is_my_repo(repo_name):
     """判断是否属于我的仓库"""
