@@ -1,102 +1,17 @@
 <div align="center">
-<img src="https://avatars.githubusercontent.com/u/28426291" align="center" height="150" width="150" />
+<img src="https://avatars.githubusercontent.com/u/109147340" align="center" height="150" width="150" />
 </div>  
   
 
-### <div align="center">I'm Pesy Wu, a college student in China. The leader of [A&D Security Lab](https://github.com/GDUT-ADSec) from 2025.😺</div>  
+### <div align="center">MeowCracker cracks something interested in, or creates some toys that helps many.</div>  
   
 
-#### <div align="center">I use 简体中文, 繁體中文 and English.</div>  
+#### <div align="center">Chinese or English is OK</div>  
   
-
-- Come to my blog: https://bili33.top  
-  
-
-- Contact me with Telegram: https://t.me/PaffCreamPMBot  
-  
-
-- Contact me with email: GamerNoTitle@outlook.com  
-  
-
-- Welcome to my Telegram group: https://t.me/DohnaNyan  
-  
-
-- Welcome to my Telegram channel: https://t.me/PaffChannel  
-  
-
-<br/>  
-
-
-## My Operating Systems | 个人用系统
 <div align="center">
-<img src="https://skillicons.dev/icons?i=windows,linux,apple,ubuntu,arch,kali" />
-</div>  
-  
-
-<br/>  
-
-
-## My Skill Set | 技能点
-<div align="center">   
-  <img src="https://skillicons.dev/icons?i=github,twitter,vim,powershell,c,python,html,javascript,java,docker,fastapi,flask&perline=6" />
+<img src="https://skillicons.dev/icons?i=windows,apple,linux" />
 </div>  
 
-<br/>  
-
-
-## Github Stats | Github 详情
-<div align="center">
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=GamerNoTitle&show_icons=true&count_private=true&hide_border=true" align="center" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GamerNoTitle&hide_border=true&layout=compact" align="center" />
-
-</td></tr></table>  
-
-<img src="https://github-readme-stats.zcy.dev/api/wakatime?username=GamerNoTitle&locale=cn&langs_count=10">
-
-<p>Since Feb 13 2025 after using <a href="https://wakatime.com/@GamerNoTitle">Wakatime</a></p>
-
-</div>
-
-<br/>  
-
-
-
-### Visitors | 访客量
-<div align="center">
-<img src="https://count.getloli.com/get/@GamerNoTitle?theme=rule34" align="center" height="" width="" />
-</div>  
-  
-
-<br/>  
-
-
-### Osu! Status
-
-<div align="center">
-<img src="https://osucard.bili33.top/api/profile-stats/GamerNoTitle?version=full&height=200" />
-</div>
-
-<br/>
-
-
-## Recent Posts on My [Blog](https://bili33.top) | 近期[博客](https://bili33.top)文章
-<!-- BLOG-POST-LIST:START -->
-- [2026-09-02 02:44:10 游戏折腾记录：在 Mac 和 Linux 玩米游](https://bili33.top/posts/play-hoyo-games-on-mac-and-linux/)
-- [2026-07-28 04:09:05 利用购买的域名创建无限临时邮箱](https://bili33.top/posts/Unlimited-Email-with-Custom-Domain/)
-- [2026-06-18 03:22:10 iPhone 17/iOS 26 初体验](https://bili33.top/posts/My-First-Experience-on-iPhone-and-iOS/)
-- [2026-04-19 22:55:53 第十九届软件系统安全赛 CCSSSC 2026 华南区域赛复盘（旅行日记）](https://bili33.top/posts/CTF-CCSSSC2026-Regional-Semi-Finals/)
-- [2026-03-16 20:58:49 第十九届 2026 软件系统安全赛华南赛区（CCSSSC2026）个人 Writeup](https://bili33.top/posts/CTF-CCSSSC2026-Preliminary-round-Writeup/)
-- [2026-02-16 11:00:46 从 Valine 迁移到 Waline 全记录](https://bili33.top/posts/Migrate-from-Valine-to-Waline/)
-- [2026-01-20 04:34:03 记一次对某邮箱软件账户数量上限破解](https://bili33.top/posts/Reverse-Engineering-Cracking-MailMaster/)
-- [2025-12-31 09:10:19 2025 年终总结](https://bili33.top/posts/2025-Year-End-Summary/)
-- [2025-12-20 04:59:03 使用 bkcrack 对 ZipCrypto 加密的 ZIP 文件进行明文爆破](https://bili33.top/posts/bkcrack-known-bytes-attack-decipher/)
-- [2025-12-14 03:05:12 2025 第五届“鹏城杯”联邦网络靶场协同攻防演练（初赛）个人 Writeup](https://bili33.top/posts/CTF-PCB2025-Preliminary-Round-Writeup/)<!-- BLOG-POST-LIST:END -->
 <br />
-
-----
+  
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
